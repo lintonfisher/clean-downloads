@@ -4,6 +4,8 @@
 
 This script aims to organise items in the downloads folder by sorting them in an _archives_ folder.
 
+This script is intended to be run on a machine running Mac OS.
+
 ## Usage
 
 At the bottom of the script, change the parameters in the function call `cleanDownloadsFolder(7, 30)` to suit your preference.
